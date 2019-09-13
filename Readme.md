@@ -10,5 +10,5 @@ The Range Gradient condition ( the [FormatConditionRangeGradient](https://docs.d
 
 This example demonstrates how to apply conditional formatting to Grid cells using the predefined Red-Blue color gradient. Click the **Update Formatting** button to change start/end colors and the number of ranges in the color gradient. The third color in the middle of the color scale is also specified to generate a 3-color gradient.
 
-![](/images/screenshot.png)
+![screenshot](/images/screenshot.png)
 
